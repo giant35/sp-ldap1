@@ -1,0 +1,6 @@
+## YAML Template.
+---
+spring:
+logging:
+    level:
+        org.springframework: TRACE
